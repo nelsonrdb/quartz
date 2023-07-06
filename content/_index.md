@@ -2,11 +2,17 @@
 title: "Laborbuch" 
 
 ---
-HELOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO $f(x) = 1$
+Ma moitiée !!!!!! 
 
-$$ Q(x)/R(x) = L(y)$$
+J'ai créé mon laborbuch :) :) 
 
-![intro_pic](pictures/intro_pic.jpg)
+Voilà bon pour l'instant il est en travaux donc je laisse cette petite photo mais après je vais 
+l'enlever hein !! 
+
+
+Gros bisous ma moitiée
+
+![Intro_pic](pictures/IMG_9269.jpg)
 
 
 
