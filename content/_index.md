@@ -4,14 +4,10 @@ title: "Laborbuch"
 ---
 Ma moitiée !!!!!! 
 
-J'ai créé mon laborbuch :) :) 
-
-Voilà bon pour l'instant il est en travaux donc je laisse cette petite photo mais après je vais 
-l'enlever hein !! 
+1er petit link .. pas grand chose à voir avec la choucroute.. :D 
 
 
-Gros bisous ma moitiée
-
+Hop petite photo avec Frau Pinède
 ![Intro_pic](pictures/IMG_9269.jpg)
 
 
