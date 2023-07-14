@@ -1,10 +1,9 @@
 ---
 title: "Laborbuch" 
 
----
-Ma moitiée !!!!!! 
+--- 
 
-1er petit link .. pas grand chose à voir avec la choucroute.. :D 
+1er petit link .. pas grand chose à voir avec ce qui était prévu initialement :D 
 
 
 Hop petite photo avec Frau Pinède
