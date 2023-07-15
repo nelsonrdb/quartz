@@ -5,13 +5,13 @@
 
 In this post, we want to compute the area of Annecy Lake using accept rejct sample algorithm, described : [[Accept - Reject Sample Algorithm]] 
 Here is the pic I screen shotted in Maps : 
-![original_pic](Pictures/Original_pic.png)
+![original_pic](pictures/Original_pic.png)
 The process is pretty straight forward : gerenate random points  across the picture, and take only the ones in lake. 
-The main difficulty was to find a good criteria to see whether the pixels were lake pixels or not. A decision tree good be done here...![screen_1](Pictures/Screen_1.png)Given to total area of the picture, you can easily recover the area of the lake. 
-![screen2](Pictures/screen_2.png)
+The main difficulty was to find a good criteria to see whether the pixels were lake pixels or not. A decision tree good be done here...![screen_1](pictures/Screen_1.png)Given to total area of the picture, you can easily recover the area of the lake. 
+![screen2](pictures/screen_2.png)
 
 We get the picture as a result : 
-![screen2](Pictures/Monte_Carlo_Lake.png)
+![screen2](pictures/Monte_Carlo_Lake.png)
 
 Quite happily enough, our value stands quite close to the real one of Wikipedia : 27.59 km2
 https://en.wikipedia.org/wiki/Lake_Annecy
@@ -20,4 +20,4 @@ even tough we can se on the picture that there are some green points in the non-
 I'll finish with this nice picture this house of my cousins' friends where I was lucky enough to go .. there are some people on this beautiful planet who are not to be pitied ! 
 
 
-![finale_pic](Pictures/final_pic.jpg)
+![finale_pic](pictures/final_pic.jpg)
