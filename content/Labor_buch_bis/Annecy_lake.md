@@ -20,4 +20,4 @@ even tough we can se on the picture that there are some green points in the non-
 I'll finish with this nice picture this house of my cousins' friends where I was lucky enough to go .. there are some people on this beautiful planet who are not to be pitied ! 
 
 
-![[359772668_6241036102662241_1218709484030522117_n 1.jpg]]
+![](pictures/final_pic.jpg)
