@@ -8,7 +8,7 @@ Here is the pic I screen shotted in Maps :
 ![original_pic](pictures/Original_pic.png)
 The process is pretty straight forward : gerenate random points  across the picture, and take only the ones in lake. 
 The main difficulty was to find a good criteria to see whether the pixels were lake pixels or not. A decision tree good be done here...![screen_1](pictures/Screen_1.png)Given to total area of the picture, you can easily recover the area of the lake. 
-![screen2](pictures/screen_2.png)
+![screen1](pictures/screen_1.png)
 
 We get the picture as a result : 
 ![screen2](pictures/Monte_Carlo_Lake.png)
